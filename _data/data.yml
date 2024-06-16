@@ -92,7 +92,7 @@ experiences:
             - Helped with writing research articles for publication
         link: (https://doi.org/10.1016/j.procs.2021.09.234)
       - role: Research Intern
-        time: 2019
+        time: "2019"
         company: Department of Software Engineering, National Research University Higher School of Economics, Moscow, Russia
         details: |
             - Research Topic- Survey of Human Factors in Crisis Responsive Software Development
