@@ -158,7 +158,7 @@ oss:
 
       - title: Polystat
         link: "https://github.com/polystat"
-        tagline: "Polyglot Static Analyzer for Object-Oriented Programming Languages"
+        tagline: "Polyglot Static Analyzer for Object-Oriented Programming Languages."
 
 publications:
     title: Publications
