@@ -52,7 +52,10 @@ career-profile:
     title: Career Profile
     summary: |
       Interested in solving technological problems by combining 
-      Software Engineering and Machine Learning techniques.
+      Software Engineering and Machine Learning techniques. You'll notice the following qualities about me:
+        - Problem solver, Self-motivated, and always looking for ways to improve things 
+        - Aptitude and enthusiasm for quickly learning new tools and technology
+        - Open-minded and good team player
 education:
     title: Education
     info:
@@ -133,7 +136,7 @@ projects:
     assignments:
       - title: Deep Learning Project -Artistic Style Transfer on android (Java) with TensorFlow
         link: "https://github.com/jizzel/Artistic-Style-Transfer-android-TensorFlow"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Artistic Style Transfer."
 
       - title: Pending Publication - Enhancement of Vehicle Speed Estimation Based on Optical Flow and Deep Learning Approaches
         link: "#"
@@ -177,7 +180,10 @@ publications:
         conference: HSE University - Student Theses
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Frameworks, Tools, Technologies, Skills &amp; Proficiency
+
+    intro: |
+       NgRx, RxJs, Signals, Angular, Redux, React, Vue, Pinia, Node, MongoDB, SQL, HTML5, CSS3, JQuery, tailwind CSS, daisyUI, bootstrap, semantic UI, styled-components, Aiohttp, Figma UI design, RESTful services, GraphQL, Apollo Client, WordPress, Algorithms and data structures, Bootstrap, Git, Linux, containerization with Docker, DevOps, Google Cloud Platform, Digital Ocean, Microsoft Azure, software testing, web app development, and android app (java) development, Object-Oriented Programming (OOP), TensorFlow, Pytorch, Machine Learning, OpenCV.
 
     toolset:
       - name: Javascript/Node
