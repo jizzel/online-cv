@@ -74,8 +74,14 @@ education:
 experiences:
     title: Software Engineer
     info:
+      - role: Network Architect
+        time: 2022 - Present
+        company: ICT Experts, Tema, Ghana
+        details: |
+            - Develop and maintain network software, configure network devices, monitor network performance, and collaborate with external service providers for network-related services, such as cloud services, to ensure compliance with service level agreements (SLA).
+
       - role: Fullstack Developer
-        time: 2021 - Present
+        time: 2021 - 2023
         company: Tradelink Technologies, Tallin, Estonia
         details: | 
             - Analyzing, developing, and implementing new features in the Frontend (React/Vue), RESTful APIs in the Backend (Node), the telegram trading chatbot (Python) of TradeLink's crypto trading analytics platform that processes, analyses, and renders data visually.
