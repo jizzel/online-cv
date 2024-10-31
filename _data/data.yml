@@ -80,19 +80,20 @@ experiences:
         time: 2021 - Present
         company: Tradelink Technologies, Tallin, Estonia
         details: | 
-            - Enhancing TinkleLink’s crypto trading analytics platform by implementing new features on the frontend (React/Vue) and backend (Node.js and python), providing a better user-experience and increasing platform engagement.
-            - Optimized applications to handle high data traﬃc by fine-tuning backend processes and applying data compression strategies, which significantly improved system response time (focusing on our SLI/SLO/SLA) and ensured reliable performance under heavy loads.
-            - Developed a Telegram trading analytics chatbot in Python, integrated with core systems, which streamlined user access to analytics and boosted engagement rates by 30%, enhancing user interaction with trading insights.
-            - Transformed mockups into fully functional web applications through a seamless integration of frontend and backend components, delivering a smooth, intuitive experience that improved user satisfaction and reduced onboarding friction.
-            - Managed and automated CI/CD pipelines using GitHub Actions and Docker, cutting deployment times by 25% and ensuring rapid, consistent releases. Additionally, monitored application performance with Sentry, Grafana, and Prometheus to proactively resolve issues and maintain optimal performance.
+            - Improving Tradelink’s crypto trading platform by adding new features to the frontend (React/Vue) and backend (Node.js/Python), boosting user engagement.
+            - Streamlined backend processes and applied data optimization strategies to improve response times, meeting SLAs and maintaining stability under high traffic.
+            - Built a Python-based Telegram analytics bot and integrated with core systems, increasing engagement rates by 30%.
+            - Transformed mockups into fully functional web applications, improving user experience and reducing onboarding friction.
+            - Reduced deployment times by 25% through GitHub Actions and Docker, and proactively maintained application performance with Sentry, Grafana, etc.
 
       - role: Java Developer (Research Assistant)
         time: 2020 - 2021
         company: NRU Higher School of Economics (Huawei Technologies Co. Ltd. - No TC202012080007), Moscow, Russia
         details: |
-            - Contributed to the development of Eolang, a new object-oriented programming language, and its compiler, by implementing some core features and the runtime standard library. This enabled eﬃcient translation of Eolang code into executable formats, laying a solid foundation for its adoption in software development.
-            - Designed and implemented interoperability mechanism to integrate Java code within Eolang by leveraging the Java Reflection API. This facilitated seamless cross-language functionality, significantly expanding Eolang’s capabilities within Java ecosystems and enhancing its usability for developers.
-            - Co-authored several research articles, including a notable publication in Procedia Computer Science (https://doi.org/10.1016/j.procs.2021.09.234), contributing to the academic community’s understanding of programming language development and fostering discussions on best practices and innovations in the field.
+            - Contributed to Eolang’s core features and runtime library, enabling efficient code translation and establishing a foundation for language adoption.
+            - Designed a Java interoperability mechanism for Eolang, expanding cross-language functionality and usability within Java ecosystems.
+            - Co-authored research articles, including a publication in Procedia Computer Science, advancing discussions on programming language development and best practices.
+
         link: (https://doi.org/10.1016/j.procs.2021.09.234)
       - role: Research Intern
         time: "2019"
@@ -106,10 +107,10 @@ experiences:
         time: 2017 - 2018
         company: Overcore Technologies, Tema, Ghana
         details: |
-          - Analyzed client requirements to design, develop, and maintain robust web applications using the MEAN stack (MongoDB, Express, Angular, and Node.js). Leveraged CI/CD practices to streamline deployment, resulting in faster release cycles and improved application stability for clients.
-          = Developed a tailored WordPress theme for a client, ensuring a unique and engaging user experience aligned with their brand identity. This solution increased client engagement and provided a flexible, scalable framework for future content updates.
-          - Provided guidance and mentorship to interns on web development fundamentals, best practices, and modern frameworks. Fostered their technical skills and professional growth, contributing to a more skilled, capable team.
-          - Worked closely with product managers, designers, and QA teams to design and implement new features that enhanced user experience for a Fintech Web App. This collaborative approach improved feature alignment with user needs and facilitated a smoother development process.
+          - Designed and maintained web applications using the MEAN stack, implementing CI/CD practices to achieve faster release cycles and improved stability.
+          - Developed a unique WordPress theme tailored to a client’s brand, boosting engagement and providing a scalable content framework.
+          - Mentored interns in web development, fostering technical skills and contributing to team capability.
+          - Partnered with product managers, designers, and QA teams to create user-centric features for a fintech web app, enhancing user experience.
 
 certifications:
       title: "Site Reliability Engineering: Measuring and Managing Reliability"
