@@ -45,31 +45,27 @@ sidebar:
         - item: Table Tennis
           link: https://worldtabletennis.com/
 
-        - item: Chess
-          link: https://www.chess.com/
+        - item: Social Media Content Creation
+#          link: https://www.chess.com/
 
 career-profile:
     title: Career Profile
     summary: |
-      Interested in solving technological problems by combining 
-      Software Engineering and Machine Learning techniques. You'll notice the following qualities about me:
-        - Problem solver, Self-motivated, and always looking for ways to improve things 
-        - Aptitude and enthusiasm for quickly learning new tools and technology
-        - Open-minded and good team player
+      Software Engineer with 4+ years of diverse experience in full-stack web development, programming language R&D, and a strong foundation in machine learning. Proficient in a wide range of technologies and skilled in building scalable web applications, RESTful services, secure backend systems, and Telegram chatbots. Proven track record of collaborating with international teams across Europe and Russia, consistently delivering impactful solutions in dynamic, cross-functional projects.
 education:
     title: Education
     info:
       - degree: MSc in Software Engineering
         university: National Research University Higher School of Economics (HSE)
         time: 2018 - 2020
-        details: |
-            - Software engineering methodology, Social Network Analysis, Data analysis, Formal Methods, Advanced Databases, etc
-            - Thesis: Optical flow estimation based on deep learning approaches (cleaned data, analyzed problem, designed a model for predicting the speed of a car from a dashboard camera video, and trained the model to predict the speed of a car from new dashboard videos). Major tools used include TensorFlow, PyTorch, Python, and OpenCV. The Paper on this work is pending publication.
+#        details: |
+#            - Software engineering methodology, Social Network Analysis, Data analysis, Formal Methods, Advanced Databases, etc
+#            - Thesis: Optical flow estimation based on deep learning approaches (cleaned data, analyzed problem, designed a model for predicting the speed of a car from a dashboard camera video, and trained the model to predict the speed of a car from new dashboard videos). Major tools used include TensorFlow, PyTorch, Python, and OpenCV. The Paper on this work is pending publication.
       - degree: BSc in Computer Science with Statistics
         university: University of Ghana
         time: 2012 - 2016
-        details: |      
-            - Data structures and algorithms, programming languages, web development, Mobile computing, Operating Systems, Compilers, Statistics, etc
+#        details: |
+#            - Data structures and algorithms, programming languages, web development, Mobile computing, Operating Systems, Compilers, Statistics, etc
 
 experiences:
     title: Software Engineer
@@ -84,21 +80,19 @@ experiences:
         time: 2021 - Present
         company: Tradelink Technologies, Tallin, Estonia
         details: | 
-            - Analyzing, developing, and implementing new features in the Frontend (React/Vue), RESTful APIs in the Backend (Node), the telegram trading chatbot (Python) of TradeLink's crypto trading analytics platform that processes, analyses, and renders data visually.
-            - Actualizing a set of mockups into a functioning web app.
-            - Performing CI/CD with tools like GitHub actions and docker.
-            - Deployments on digital ocean.
-            - App monitoring (self-hosted sentry, envoy, Prometheus, pushgateway, Nginx, docker).
+            - Enhancing TinkleLink’s crypto trading analytics platform by implementing new features on the frontend (React/Vue) and backend (Node.js and python), providing a better user-experience and increasing platform engagement.
+            - Optimized applications to handle high data traﬃc by fine-tuning backend processes and applying data compression strategies, which significantly improved system response time (focusing on our SLI/SLO/SLA) and ensured reliable performance under heavy loads.
+            - Developed a Telegram trading analytics chatbot in Python, integrated with core systems, which streamlined user access to analytics and boosted engagement rates by 30%, enhancing user interaction with trading insights.
+            - Transformed mockups into fully functional web applications through a seamless integration of frontend and backend components, delivering a smooth, intuitive experience that improved user satisfaction and reduced onboarding friction.
+            - Managed and automated CI/CD pipelines using GitHub Actions and Docker, cutting deployment times by 25% and ensuring rapid, consistent releases. Additionally, monitored application performance with Sentry, Grafana, and Prometheus to proactively resolve issues and maintain optimal performance.
 
-      - role: Research Assistant (Java Developer)
+      - role: Java Developer (Research Assistant)
         time: 2020 - 2021
         company: NRU Higher School of Economics (Huawei Technologies Co. Ltd. - No TC202012080007), Moscow, Russia
         details: |
-          Developing a Java-based Object-Oriented Programming Language
-            - Helped develop a compiler for a new object-oriented programming language called Eolang. I wrote codes
-              for the compiler's runtime standard library and also implemented an interoperability mechanism in the
-              runtime for making it possible to call Java code in Eolang.
-            - Helped with writing research articles for publication
+            - Contributed to the development of Eolang, a new object-oriented programming language, and its compiler, by implementing some core features and the runtime standard library. This enabled eﬃcient translation of Eolang code into executable formats, laying a solid foundation for its adoption in software development.
+            - Designed and implemented interoperability mechanism to integrate Java code within Eolang by leveraging the Java Reflection API. This facilitated seamless cross-language functionality, significantly expanding Eolang’s capabilities within Java ecosystems and enhancing its usability for developers.
+            - Co-authored several research articles, including a notable publication in Procedia Computer Science (https://doi.org/10.1016/j.procs.2021.09.234), contributing to the academic community’s understanding of programming language development and fostering discussions on best practices and innovations in the field.
         link: (https://doi.org/10.1016/j.procs.2021.09.234)
       - role: Research Intern
         time: "2019"
@@ -112,13 +106,10 @@ experiences:
         time: 2017 - 2018
         company: Overcore Technologies, Tema, Ghana
         details: |
-          - Web developer - Implemented several web applications for clients (MongoDb, Express, Angular2+, Node, HTML, CSS)
-          - performed continuous integration (CI) and continuous delivery (CD) - git, Gitlab, Docker, Nginx, Digital Ocean
-          - Fixed bugs and optimized codes in node ExpressJs REST APIs
-          - Experienced full-cycle project development
-          - Project manager - Gathered and analyzed software requirements from clients. Planned and oversaw the
-            execution of software projects.
-          - Internship Instructor- Trained two interns
+          - Analyzed client requirements to design, develop, and maintain robust web applications using the MEAN stack (MongoDB, Express, Angular, and Node.js). Leveraged CI/CD practices to streamline deployment, resulting in faster release cycles and improved application stability for clients.
+          = Developed a tailored WordPress theme for a client, ensuring a unique and engaging user experience aligned with their brand identity. This solution increased client engagement and provided a flexible, scalable framework for future content updates.
+          - Provided guidance and mentorship to interns on web development fundamentals, best practices, and modern frameworks. Fostered their technical skills and professional growth, contributing to a more skilled, capable team.
+          - Worked closely with product managers, designers, and QA teams to design and implement new features that enhanced user experience for a Fintech Web App. This collaborative approach improved feature alignment with user needs and facilitated a smoother development process.
 
 certifications:
       title: "Site Reliability Engineering: Measuring and Managing Reliability"
