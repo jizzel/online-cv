@@ -107,10 +107,10 @@ experiences:
         time: 2017 - 2018
         company: Overcore Technologies, Tema, Ghana
         details: |
-          - Designed and maintained web applications using the MEAN stack, implementing CI/CD practices to achieve faster release cycles and improved stability.
-          - Developed a unique WordPress theme tailored to a client’s brand, boosting engagement and providing a scalable content framework.
-          - Mentored interns in web development, fostering technical skills and contributing to team capability.
-          - Partnered with product managers, designers, and QA teams to create user-centric features for a fintech web app, enhancing user experience.
+            - Designed and maintained web applications using the MEAN stack, implementing CI/CD practices to achieve faster release cycles and improved stability.
+            - Developed a unique WordPress theme tailored to a client’s brand, boosting engagement and providing a scalable content framework.
+            - Mentored interns in web development, fostering technical skills and contributing to team capability.
+            - Partnered with product managers, designers, and QA teams to create user-centric features for a fintech web app, enhancing user experience.
 
 certifications:
       title: "Site Reliability Engineering: Measuring and Managing Reliability"
