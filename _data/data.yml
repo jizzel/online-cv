@@ -18,7 +18,7 @@ sidebar:
     timezone: GMT+00 # America/Cancun Timezone
     citizenship: Ghanaian
     website: https://attakorah.com #do not add http://
-    linkedin: joseph-attakorah-b6028786/
+    linkedin: jaa24/
     xing: # alandoe
     github: jizzel
     telegram: attah_kay # add your nickname without '@' sign
@@ -45,22 +45,23 @@ sidebar:
         - item: Table Tennis
           link: https://worldtabletennis.com/
 
+        - item: Video Editing
+
         - item: Social Media Content Creation
 #          link: https://www.chess.com/
 
 career-profile:
     title: Career Profile
     summary: |
-      Software Engineer with 4+ years of diverse experience in full-stack web development, programming language R&D, and a strong foundation in machine learning. Proficient in a wide range of technologies and skilled in building scalable web applications, RESTful services, secure backend systems, and Telegram chatbots. Proven track record of collaborating with international teams across Europe and Russia, consistently delivering impactful solutions in dynamic, cross-functional projects.
+      Software Engineer with 4+ years of experience in full-stack development and programming language R&D. Adept at building scalable web applications, secure backend systems, and automation tools. Proven track record of collaborating with international teams across Europe and Russia, consistently delivering impactful solutions in dynamic, cross-functional projects.
 education:
     title: Education
     info:
       - degree: MSc in Software Engineering
         university: National Research University Higher School of Economics (HSE)
         time: 2018 - 2020
-#        details: |
-#            - Software engineering methodology, Social Network Analysis, Data analysis, Formal Methods, Advanced Databases, etc
-#            - Thesis: Optical flow estimation based on deep learning approaches (cleaned data, analyzed problem, designed a model for predicting the speed of a car from a dashboard camera video, and trained the model to predict the speed of a car from new dashboard videos). Major tools used include TensorFlow, PyTorch, Python, and OpenCV. The Paper on this work is pending publication.
+        details: |
+            - Thesis: A Program for Optical Flow Estimation Based on Deep Learning Approaches
       - degree: BSc in Computer Science with Statistics
         university: University of Ghana
         time: 2012 - 2016
@@ -76,22 +77,22 @@ experiences:
 #        details: |
 #            - Develop and maintain network software, configure network devices, monitor network performance, and collaborate with external service providers for network-related services, such as cloud services, to ensure compliance with service level agreements (SLA).
 
-      - role: Fullstack Developer
+      - role: Software Engineer
         time: 2021 - Present
-        company: Tradelink Technologies, Tallin, Estonia
+        company: Tradelink Technologies, Remote, Tallinn, Estonia
         details: | 
-            - Improving Tradelink’s crypto trading platform by adding new features to the frontend (React/Vue) and backend (Node.js/Python), boosting user engagement.
-            - Streamlined backend processes and applied data optimization strategies to improve response times, meeting SLAs and maintaining stability under high traffic.
-            - Built a Python-based Telegram analytics bot and integrated with core systems, increasing engagement rates by 30%.
-            - Transformed mockups into fully functional web applications, improving user experience and reducing onboarding friction.
-            - Reduced deployment times by 25% through GitHub Actions and Docker, and proactively maintained application performance with Sentry, Grafana, etc.
+            - Develop and improve core features of TradeLink’s crypto trading platform, leading to increased user engagement and performance optimization.
+            - Optimized backend processes and implemented data optimization strategies to improve response times, meet SLAs, and ensure stability under high traffic conditions.
+            - Built a Python-based Telegram analytics bot and integrated it with core systems, increasing user engagement by 30%.
+            - Reduced deployment times by 25% using GitHub Actions and Docker, while proactively monitoring application performance with Sentry and Grafana.
+            - Architected scalable backend service handling 3,000+ concurrent requests with 99.9% uptime and <100ms response times (verified via Apache Benchmark).
 
       - role: Java Developer (Research Assistant)
         time: 2020 - 2021
         company: NRU Higher School of Economics (Huawei Technologies Co. Ltd. - No TC202012080007), Moscow, Russia
         details: |
             - Contributed to Eolang’s core features and runtime library, enabling efficient code translation and establishing a foundation for language adoption.
-            - Designed a Java interoperability mechanism for Eolang, expanding cross-language functionality and usability within Java ecosystems.
+            - ●	Designed a Java interoperability mechanism for Eolang, enabling seamless cross-language integration.
             - Co-authored research articles, including a publication in Procedia Computer Science, advancing discussions on programming language development and best practices.
 
         link: (https://doi.org/10.1016/j.procs.2021.09.234)
@@ -109,8 +110,8 @@ experiences:
         details: |
             - Designed and maintained web applications using the MEAN stack, implementing CI/CD practices to achieve faster release cycles and improved stability.
             - Developed a unique WordPress theme tailored to a client’s brand, boosting engagement and providing a scalable content framework.
-            - Mentored interns in web development, fostering technical skills and contributing to team capability.
-            - Partnered with product managers, designers, and QA teams to create user-centric features for a fintech web app, enhancing user experience.
+            - Mentored 2 interns, guiding them in web development and CI/CD practices.
+            - Partnered with product managers, designers, and QA teams to create user-centric features for a FinTech web app, enhancing user experience.
 
 certifications:
       title: "Site Reliability Engineering: Measuring and Managing Reliability"
@@ -122,27 +123,27 @@ certifications:
           credentialid: LET3Z2X26AEX
           credentialurl: https://coursera.org/share/b53902f331ac7f15b8318c47463197c9
           credentialname: Google Cloud
-          details: |
-            - Service Level Objectives (SLOs), a principled way of describing and measuring the desired reliability of a service.
-            - Service Level Indicators (SLIs), a way of quantifying reliability and Error Budgets to drive business decisions around engineering for greater reliability. Walked through the process of developing SLIs and SLOs for an example service.
-            - SLA      
+#          details: |
+#            - Service Level Objectives (SLOs), a principled way of describing and measuring the desired reliability of a service.
+#            - Service Level Indicators (SLIs), a way of quantifying reliability and Error Budgets to drive business decisions around engineering for greater reliability. Walked through the process of developing SLIs and SLOs for an example service.
+#            - SLA
 
-projects:
-    title: Projects/Research
-    intro: >
-
-    assignments:
-      - title: Deep Learning Project -Artistic Style Transfer on android (Java) with TensorFlow
-        link: "https://github.com/jizzel/Artistic-Style-Transfer-android-TensorFlow"
-        tagline: "Artistic Style Transfer."
-
-      - title: Pending Publication - Enhancement of Vehicle Speed Estimation Based on Optical Flow and Deep Learning Approaches
-        link: "#"
-        tagline: "Speed prediction"
-
-      - title: Driving License Document(image) Classification and Text Extraction
-        link: "https://github.com/jizzel/dvl-learning"
-        tagline: "Optical Character Recognition, Deep learning, Document"
+#projects:
+#    title: Projects/Research
+#    intro: >
+#
+#    assignments:
+#      - title: Deep Learning Project -Artistic Style Transfer on android (Java) with TensorFlow
+#        link: "https://github.com/jizzel/Artistic-Style-Transfer-android-TensorFlow"
+#        tagline: "Artistic Style Transfer."
+#
+#      - title: Pending Publication - Enhancement of Vehicle Speed Estimation Based on Optical Flow and Deep Learning Approaches
+#        link: "#"
+#        tagline: "Speed prediction"
+#
+#      - title: Driving License Document(image) Classification and Text Extraction
+#        link: "https://github.com/jizzel/dvl-learning"
+#        tagline: "Optical Character Recognition, Deep learning, Document"
 
 oss:
     title: OSS Contributions
@@ -177,11 +178,31 @@ publications:
         authors: Joseph Afriyie Attakorah
         conference: HSE University - Student Theses
 
-skills:
-    title: Frameworks, Tools, Technologies, Skills &amp; Proficiency
+projects:
+  title: Technologies
+  intro: >
 
-    intro: |
-       NgRx, RxJs, Signals, Angular, Redux, React, Vue, Pinia, Node, MongoDB, SQL, HTML5, CSS3, JQuery, tailwind CSS, daisyUI, bootstrap, semantic UI, styled-components, Aiohttp, Figma UI design, RESTful services, GraphQL, Apollo Client, WordPress, Algorithms and data structures, Bootstrap, Git, Linux, containerization with Docker, DevOps, Google Cloud Platform, Digital Ocean, Microsoft Azure, software testing, web app development, and android app (java) development, Object-Oriented Programming (OOP), TensorFlow, Pytorch, Machine Learning, OpenCV.
+  assignments:
+    - title: Backend
+      tagline: Node.js, Python, Express.js, Nest.js, PostgreSQL, MongoDB, BullMQ, Redis
+
+    - title: API & Services
+      tagline: RESTful API design, Microservices architecture, Message queuing
+
+    - title: Frontend
+      tagline: React, Redux, Angular, RxJs, NgRx, Tailwind CSS
+
+    - title: DevOps
+      tagline: Docker, GitHub Actions, GCP, Digital Ocean, Prometheus, Pushgateway, Grafana
+
+    - title: Others
+      tagline: Git, Aiohttp, Figma UI design, Kubernetes, Tailwind CSS, Styled components
+
+skills:
+    title: Skills &amp; Proficiency
+
+#    intro: |
+#       NgRx, RxJs, Signals, Angular, Redux, React, Vue, Pinia, Node, MongoDB, SQL, HTML5, CSS3, JQuery, tailwind CSS, daisyUI, bootstrap, semantic UI, styled-components, Aiohttp, Figma UI design, RESTful services, GraphQL, Apollo Client, WordPress, Algorithms and data structures, Bootstrap, Git, Linux, containerization with Docker, DevOps, Google Cloud Platform, Digital Ocean, Microsoft Azure, software testing, web app development, and android app (java) development, Object-Oriented Programming (OOP), TensorFlow, Pytorch, Machine Learning, OpenCV.
 
     toolset:
       - name: Javascript/Node
