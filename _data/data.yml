@@ -83,14 +83,14 @@ experiences:
         details: | 
             - Led the development of scalable backend services for Tradelink’s crypto trading analytics platform, resulting in 40% improved system performance and 99.9% uptime under 3,000+ concurrent users.
             - Optimized backend processes and implemented data optimization strategies to improve response times, meet SLAs, and ensure stability under high traffic conditions.
-            - Designed & integrated a real-time Telegram bot using Python, increasing daily active users by 30%.
+            - Designed and integrated a real-time Telegram bot using Python, increasing daily active users by 30%.
             - Reduced deployment times by 25% using GitHub Actions and Docker, and implemented observability tools (Grafana, Sentry) to monitor and alert on performance metrics.
             - Implemented new features and resolved critical bugs in a full-stack environment (Node.js, React, MongoDB), contributing to a 10% increase in customer satisfaction scores.
             - Mentored 3 junior software engineers, guiding them through complex feature development, code reviews, and best practices, leading to a 25% improvement in team code quality and productivity.
 
       - role: Software Engineer
         time: 2020 - 2021
-        company: Huawei Technologies Co. Ltd. - No TC202012080007), Moscow, Russia
+        company: Huawei Technologies Co. Ltd. (TC202012080007), Moscow, Russia
         details: |
             - Implemented Eolang’s core features and runtime library, enabling efficient code translation and establishing a foundation for language adoption.
             - Designed and implemented Java interoperability for Eolang using the Java Reflection API to create runtime wrappers, enabling seamless integration with Java apps and expanding language usability.
@@ -179,7 +179,7 @@ publications:
         conference: HSE University - Student Theses
 
 projects:
-  title: Projects & Technologies
+  title: Projects and Technologies
   intro: >
       - <a href="https://github.com/jizzel/weub">Video Streaming App</a>: Built a full-stack system with Angular, NestJS, and Prisma. Supports HLS adaptive streaming with background video transcoding. Includes Redis queueing, 2 GB upload limits, and UUID-based video asset management.
 
