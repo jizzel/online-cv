@@ -185,7 +185,7 @@ projects:
 
   assignments:
     - title: Languages & Frameworks
-      tagline: Python, JavaScript, TypeScript, Node.js, Express.js, FastAPI, NestJs, Aiohttp
+      tagline: Python, JavaScript, TypeScript, Node.js, Express.js, FastAPI, NestJS, Aiohttp
 
     - title: Frontend
       tagline: React, Angular, Tailwind CSS, NgRx, Redux, RxJs
