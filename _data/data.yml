@@ -181,7 +181,7 @@ publications:
 projects:
   title: Projects and Technologies
   intro: >
-      - <a href="https://github.com/jizzel/weub">Video Streaming App</a>: Built a full-stack system with Angular, NestJS, and Prisma. Supports HLS adaptive streaming with background video transcoding. Includes Redis queueing, 2 GB upload limits, and UUID-based video asset management.
+      ◘ <a href="https://github.com/jizzel/weub">Video Streaming App</a>: Built a full-stack system with Angular, NestJS, and Prisma. Supports HLS adaptive streaming with background video transcoding. Includes Redis queueing, 2 GB upload limits, and UUID-based video asset management.
 
   assignments:
     - title: Languages & Frameworks
