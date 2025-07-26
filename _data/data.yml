@@ -47,13 +47,13 @@ sidebar:
 
         - item: Video Editing
 
-        - item: Social Media Content Creation
+        - item: Social Media Management
 #          link: https://www.chess.com/
 
 career-profile:
     title: Career Profile
     summary: |
-      Software Engineer with 4+ years of experience in full-stack development and programming language R&D. Adept at building scalable web applications, secure backend systems, and automation tools. Proven track record of collaborating with international teams across Europe and Russia, consistently delivering impactful solutions in dynamic, cross-functional projects.
+      Software Engineer with 5+ years of experience building full-stack, cloud-native applications, and automation tools. Skilled in delivering business-critical solutions with measurable impact, and highly effective at collaborating across distributed teams and time zones. Core strengths include JavaScript and Python development, as well as designing and managing cloud infrastructure.
 education:
     title: Education
     info:
@@ -81,19 +81,20 @@ experiences:
         time: 2021 - Present
         company: Tradelink Technologies, Remote, Tallinn, Estonia
         details: | 
-            - Develop and improve core features of TradeLink’s crypto trading platform, leading to increased user engagement and performance optimization.
+            - Led the development of scalable backend services for Tradelink’s crypto trading analytics platform, resulting in 40% improved system performance and 99.9% uptime under 3,000+ concurrent users.
             - Optimized backend processes and implemented data optimization strategies to improve response times, meet SLAs, and ensure stability under high traffic conditions.
-            - Built a Python-based Telegram analytics bot and integrated it with core systems, increasing user engagement by 30%.
-            - Reduced deployment times by 25% using GitHub Actions and Docker, while proactively monitoring application performance with Sentry and Grafana.
-            - Architected scalable backend service handling 3,000+ concurrent requests with 99.9% uptime and <100ms response times (verified via Apache Benchmark).
+            - Designed and integrated a real-time Telegram bot using Python, increasing daily active users by 30%.
+            - Reduced deployment times by 25% using GitHub Actions and Docker, and implemented observability tools (Grafana, Sentry) to monitor and alert on performance metrics.
+            - Implemented new features and resolved critical bugs in a full-stack environment (Node.js, React, MongoDB), contributing to a 10% increase in customer satisfaction scores.
+            - Mentored 3 junior software engineers, guiding them through complex feature development, code reviews, and best practices, leading to a 25% improvement in team code quality and productivity.
 
-      - role: Java Developer (Research Assistant)
+      - role: Software Engineer
         time: 2020 - 2021
-        company: NRU Higher School of Economics (Huawei Technologies Co. Ltd. - No TC202012080007), Moscow, Russia
+        company: Huawei Technologies Co. Ltd. (TC202012080007), Moscow, Russia
         details: |
-            - Contributed to Eolang’s core features and runtime library, enabling efficient code translation and establishing a foundation for language adoption.
-            - ●	Designed a Java interoperability mechanism for Eolang, enabling seamless cross-language integration.
-            - Co-authored research articles, including a publication in Procedia Computer Science, advancing discussions on programming language development and best practices.
+            - Implemented Eolang’s core features and runtime library, enabling efficient code translation and establishing a foundation for language adoption.
+            - Designed and implemented Java interoperability for Eolang using the Java Reflection API to create runtime wrappers, enabling seamless integration with Java apps and expanding language usability.
+            - Co-authored a peer-reviewed academic paper published in Procedia Computer Science, sharing insights on language design and implementation strategies.
 
         link: (https://doi.org/10.1016/j.procs.2021.09.234)
       - role: Research Intern
@@ -104,14 +105,13 @@ experiences:
             - Research Activities - Searched for relevant publications, analyzed related works, created the survey with a
               case study, and suggested future research directions. Preprint of this work is available at https://arxiv.org/ abs/2007.12019
 
-      - role: Software Developer
+      - role: Full-Stack Software Developer
         time: 2017 - 2018
         company: Overcore Technologies, Tema, Ghana
         details: |
-            - Designed and maintained web applications using the MEAN stack, implementing CI/CD practices to achieve faster release cycles and improved stability.
-            - Developed a unique WordPress theme tailored to a client’s brand, boosting engagement and providing a scalable content framework.
-            - Mentored 2 interns, guiding them in web development and CI/CD practices.
-            - Partnered with product managers, designers, and QA teams to create user-centric features for a FinTech web app, enhancing user experience.
+            - Built client-facing web apps using the MEAN stack and set up CI/CD workflows that reduced deployment errors, improving delivery turnaround by 20%.
+            - Participated in code reviews, contributing to a culture of high code quality and identifying areas for performance improvement.
+            - Collaborated cross-functionally with Product Managers and UX Designers to define technical requirements and deliver user-centric features, resulting in an increase in user engagement.
 
 certifications:
       title: "Site Reliability Engineering: Measuring and Managing Reliability"
@@ -129,7 +129,7 @@ certifications:
 #            - SLA
 
 #projects:
-#    title: Projects/Research
+#    title: Video Streaming App
 #    intro: >
 #
 #    assignments:
@@ -179,24 +179,28 @@ publications:
         conference: HSE University - Student Theses
 
 projects:
-  title: Technologies
+  title: Projects and Technologies
   intro: >
+      ◘ <a href="https://github.com/jizzel/weub">Video Streaming App</a>: Built a full-stack system with Angular, NestJS, and Prisma. Supports HLS adaptive streaming with background video transcoding. Includes Redis queueing, 2 GB upload limits, and UUID-based video asset management.
 
   assignments:
-    - title: Backend
-      tagline: Node.js, Python, Express.js, Nest.js, PostgreSQL, MongoDB, BullMQ, Redis
-
-    - title: API & Services
-      tagline: RESTful API design, Microservices architecture, Message queuing
+    - title: Languages & Frameworks
+      tagline: Python, JavaScript, TypeScript, Node.js, Express.js, FastAPI, NestJs, Aiohttp
 
     - title: Frontend
-      tagline: React, Redux, Angular, RxJs, NgRx, Tailwind CSS
+      tagline: React, Angular, Tailwind CSS, NgRx, Redux, RxJs
 
-    - title: DevOps
-      tagline: Docker, GitHub Actions, GCP, Digital Ocean, Prometheus, Pushgateway, Grafana
+    - title: Database
+      tagline: PostgreSQL, MongoDB, Redis
 
-    - title: Others
-      tagline: Git, Aiohttp, Figma UI design, Kubernetes, Tailwind CSS, Styled components
+    - title: DevOps & Cloud
+      tagline: Docker, GitHub Actions, GCP, AWS, Digital Ocean, Prometheus, Grafana, Kubernetes
+
+    - title: Architectures
+      tagline: REST, GraphQL, Microservices, Message Queues (BullMQ)
+
+    - title: Tools
+      tagline: Git, Figma, OAuth2.0, Prisma, TypeORM
 
 skills:
     title: Skills &amp; Proficiency
@@ -206,22 +210,13 @@ skills:
 
     toolset:
       - name: Javascript/Node
-        level: 80%
+        level: 90%
 
       - name: Python/Java
-        level: 80%
-
-      - name: PHP/Laravel
-        level: 80%
+        level: 90%
 
       - name: Angular/React
         level: 80%
-
-      - name: HTML5 & CSS
-        level: 80%
-
-      - name: Vue
-        level: 55%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
