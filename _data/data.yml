@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: joseph@attakorah.com
-    phone: 00233 201 750 533
+    phone: +233 201 750 533
     timezone: GMT+00 # America/Cancun Timezone
     citizenship: Ghanaian
     website: https://attakorah.com #do not add http://
@@ -51,10 +51,21 @@ sidebar:
 #          link: https://www.chess.com/
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Software Engineer with 5+ years of experience building full-stack, cloud-native applications, and automation tools. Skilled in delivering business-critical solutions with measurable impact, and highly effective at collaborating across distributed teams and time zones. Core strengths include JavaScript and Python development, as well as designing and managing cloud infrastructure.
-education:
+  title: About
+  summary: |
+    I turn slow systems into fast ones, and complex problems into elegant solutions.
+    
+    Over the past 5 years, I’ve consistently delivered measurable impact across high-traffic platforms and mission-critical systems. But the numbers only tell half the story.
+    
+    What drives me is that moment when fragmented data becomes insight, when a sluggish backend scales effortlessly, or when a mentee ships their first major feature. I bring both the technical depth spanning Python and JavaScript ecosystems to cloud architecture and AI-powered applications, and the
+    collaborative leadership that transforms ambitious roadmaps into shippable reality.
+    
+    Whether optimizing backend infrastructure, building features powered by generative AI, or designing resilient systems under load, my focus is simple: deliver work that moves users and businesses forward.
+    
+    Always learning, always building, currently exploring how LLMs and intelligent tooling are reshaping the future of software development.
+    
+    You’re welcome to drop me a message if you’d like to chat about tech, AI, or anything interesting.
+  education:
     title: Education
     info:
       - degree: MSc in Software Engineering
