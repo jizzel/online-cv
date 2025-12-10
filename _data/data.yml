@@ -93,7 +93,6 @@ experiences:
         details: |
           - Designed and delivered a logistics data management platform, digitizing container temperature tracking and automating Excel/PDF reporting across multiple port terminals, replacing manual workflows and boosting operational efficiency.
           - Spearheaded requirements analysis and stakeholder sessions, translating complex operational workflows into system modules for data collection, validation, reporting, and reefer container lifecycle tracking.
-          - Developing an AI-powered legal intelligence platform automating research across 60+ years of Ghana Judicial Service rulings; created agentic workflows with Python pipelines and LLM APIs, reducing legal research time by up to 80% and positioning the organization for expansion into commercial legal tech markets.
           - Implemented an asynchronous job processing system using BullMQ and Redis, tripling background task throughput.
 
       - role: Software Engineer
